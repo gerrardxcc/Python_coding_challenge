@@ -1,2 +1,2 @@
 # Python_coding_challenge
-This repo is mainly python study and practising 
+This repo is mainly for python study and practising 
